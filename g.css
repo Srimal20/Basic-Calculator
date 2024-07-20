@@ -1,0 +1,28 @@
+.text-center {
+    text-align: center;
+    padding: 10px 0;
+    margin: 50px;
+    border-radius: 8px;
+  }
+  
+  .bg-red {
+    background: red;
+  }
+  
+  .mx-auto {
+    margin: auto
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  
+  }
+  
+  .items-center {
+    align-items: center;
+  
+  }

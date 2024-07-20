@@ -1,0 +1,45 @@
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Gluten', cursive;
+  background:#3a4452;
+  
+}
+
+
+.button {
+  width:82px;
+  padding: 22px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  font-size: 25px;
+  font-weight:bold;
+  background-color:cyan;
+  
+}
+
+.row {
+  margin: 3px 0;
+  width: 82vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   border: 10px solid rgb black;
+
+}
+
+.row input {
+  width:330px;
+  height:55px;
+  font-size: 40px;
+  font-weight:bold;
+  margin: 0;
+  padding: 3px;
+  text-align:right;
+  padding: 10px 10px;
+  border: 10px solid rgb black;
+  border-radius: 9px;
+}
